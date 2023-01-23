@@ -4,7 +4,7 @@
 ### I m a Student and an Entrepreneur!
 **Little programmer**
 
-***🔭 I’m currently studing at Jyothi Engineering Collage.***
+***🔭 I’m currently studing at APJ Abdul Kalam Technological University.***
 
 ***🌱 I’m currently learning programming languages***
 
