@@ -5,7 +5,7 @@
         src="programmer.svg" width="540"/>
     <br/><br/>
     <p>🙏🏻 Welcome to my Github profile !<br />
-        I am a growing <b>Web developer</b> 🌐 from <b>Kerala, India</b>
+        I am a growing <b>Web developer</b> 🌐 from <b>Kerala, India</b></br>
         I love learning new technologies😍 </p>
     <div>
         <a href="https://www.linkedin.com/in/shaijogeorge" target="_blank"><img alt="LinkedIn"
