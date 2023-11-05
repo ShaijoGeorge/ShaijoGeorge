@@ -22,7 +22,7 @@
             What I'm up to</h2>
         <ul>
             <li> 👨🏻‍💻 I'm a student at APJ Abdul Kalam Technological University, Kerala</li>
-            <li> 🎓 I'm currently learning Back-end Development </li>
+            <li> 🎓 I'm currently learning Front-end Development </li>
         </ul>
     </div>
 <div align="left">
