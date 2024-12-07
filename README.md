@@ -21,8 +21,8 @@
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             What I'm up to</h2>
         <ul>
-            <li> 👨🏻‍💻 I'm a student at APJ Abdul Kalam Technological University, Kerala</li>
-            <li> 🎓 I'm currently learning Front-end Development </li>
+            <li> 👨🏻‍💻 I'm a B.Tech(Computer Science Engineering) Graduate</li>
+            <li> 🎓 I'm currently learning MERN Stack Development </li>
         </ul>
     </div>
 <div align="left">
