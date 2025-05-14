@@ -21,7 +21,7 @@
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             What I'm up to</h2>
         <ul>
-            <li> 👨🏻‍💻 I'm a B.Tech(Computer Science Engineering) Graduate</li>
+            <li> 👨🏻‍💻 I'm a B.E(Computer Science Engineering) Graduate</li>
             <li> 🎓 I'm currently learning MERN Stack Development </li>
         </ul>
     </div>
