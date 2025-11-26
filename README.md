@@ -1,7 +1,7 @@
 # Hi there, I'm Shaijo George! 👋
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F709&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Computer+Science+Graduate;Vibe+Coder;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F709&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Computer+Science+Engineering+Graduate;Vibe+Coder;" alt="Typing SVG" />
 </div>
 
 <p align="center">
