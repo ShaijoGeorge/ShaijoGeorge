@@ -38,6 +38,10 @@
 
 ### 📊 GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api?username=ShaijoGeorge&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ShaijoGeorge&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaijoGeorge&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shaijogeorge&show_icons=true&hide_border=true&title_color=0078D6&icon_color=0078D6&bg_color=0d1117&text_color=ffffff&count_private=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaijogeorge&hide=assembly&layout=compact&hide_border=true&title_color=0078D6&bg_color=0d1117&text_color=ffffff" height="150" alt="languages graph" />
